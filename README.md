@@ -4,7 +4,7 @@
 
   Airbnb Rental System Data Analysis - In this project I worked on an analysis of the Airbnb rental system of two cities; New York and Seattle. The following is the analysis that I performed on the data:
   
-  1.Show the different property types available for a particular city and determine which property type has highest percent in that city
+   1.Show the different property types available for a particular city and determine which property type has highest percent in that city
   
   2. Show the best neighborhood based on the average price and room type for a given city and property type
      
