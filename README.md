@@ -30,7 +30,7 @@ I created a menu-driven Python code which takes the user’s input on which anal
 2. Show the best neighborhood based on the average price and room type for a given city and property type - In this analysis, the city is first grabbed from the user. A query is run to retrieve all the different property types in the selected city. After the neighborhood is selected, another query is run to retrieve the data. I then sorted the data according to the
 average price and different room type. This data is then used to display a graph showing the average price in each neighborhood of a particular city based on 3 different room types: private room, entire room or shared room. Based on this data, a user can easily get an idea about the average price of a particular room type as per the user’s requirement in each neighborhood in the city. The user can then make an informed choice on which neighborhood or property type best meets their requirements.
 
-                          ![image](https://github.com/kkhade1/MongoDB/assets/107223444/0855243b-06f8-425b-a682-ff61aca94c89)
+    ![image](https://github.com/kkhade1/MongoDB/assets/107223444/0855243b-06f8-425b-a682-ff61aca94c89)
 
 3. List the 5 top popular hosts for a given neighborhood based on multiple factors – Similar to the above analysis, the city and neighborhood is retrieved from the user. A query is run to retrieve the most popular hosts based on key criteria such as amenities provided, host response time, host review ratings, and cancellation policies for each year. I verified few important factors such as:
   1. Amenities provided by the host like TV, internet, washer, dryer
@@ -39,18 +39,18 @@ average price and different room type. This data is then used to display a graph
   4. Cancellation policy must be flexible
 This data was then sorted and only the top 5 hosts (in each year) were finalized. The name of property, property type, room type and average price of popular host is displayed in a table. Based on this analysis, users will get to know the list of best hosts in a particular neighborhood and city.
 
-                          ![image](https://github.com/kkhade1/MongoDB/assets/107223444/3ff16184-5a23-4e94-a03b-a84b5a0a905a)
+     ![image](https://github.com/kkhade1/MongoDB/assets/107223444/3ff16184-5a23-4e94-a03b-a84b5a0a905a)
 
-                           ![image](https://github.com/kkhade1/MongoDB/assets/107223444/c8dc5a21-b6a7-4406-8a75-ef3e27880f55)
+     ![image](https://github.com/kkhade1/MongoDB/assets/107223444/c8dc5a21-b6a7-4406-8a75-ef3e27880f55)
 
 4. Get the percentage of hosts which have multiple properties listed in Airbnb and show the number of hosts joining Airbnb each year – In this analysis, the city is first grabbed from the user. A query is run to retrieve the required data for all the hosts in the selected city who have more than 1 property listed in Airbnb. The percentage of hosts is calculated and displayed on the user display. Then another query is run to retrieve data on the hosts each year. This data is then displayed in a graph showing the number of hosts joining each year.This analysis will give users an idea about Airbnb’s popularity. An increasing number of hosts joining Airbnb would mean an increase in the number of people using Airbnb. A high percentage of hosts listing multiple properties also means that hosts are happy doing business with Airbnb and are happy with the rules and policies. This would also directly relate to increasing profit for Airbnb and its hosts.
 
-                          ![image](https://github.com/kkhade1/MongoDB/assets/107223444/c4fe14bd-5c7a-444e-a498-41288c158399)
+     ![image](https://github.com/kkhade1/MongoDB/assets/107223444/c4fe14bd-5c7a-444e-a498-41288c158399)
 
-                          ![image](https://github.com/kkhade1/MongoDB/assets/107223444/6830bbbd-973e-4380-b39b-b461251a8b57)
+     ![image](https://github.com/kkhade1/MongoDB/assets/107223444/6830bbbd-973e-4380-b39b-b461251a8b57)
 
 5. Find the percentage change in the average price of Airbnb in a city each year – In this analysis, the city is first grabbed from the user. A query is run to retrieve the required data for avarage rental pricing in the city across all the years. The percent change in the pricing each year is displayed on a scatter plot. Using prediction analysis, the linear regression line is drawn on the scatter plot data. This data is very useful as percentage change in the average rental price of Airbnb in a particular city for each year and the linear regression line will help us to predict whether the rental price will increase or decrease. This prediction analysis is useful for everyone involved: Airbnb, hosts and customers. Analyzing the scatter plot and the down-sloping linear regression line, the rental prices seem to indicate a percentage decrease in price.
 
-                          ![image](https://github.com/kkhade1/MongoDB/assets/107223444/1585a7ce-bb4b-4aa5-9734-00706dc2ed09)
+     ![image](https://github.com/kkhade1/MongoDB/assets/107223444/1585a7ce-bb4b-4aa5-9734-00706dc2ed09)
 
 
