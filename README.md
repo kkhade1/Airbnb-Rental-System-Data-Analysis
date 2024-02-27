@@ -1,5 +1,9 @@
 **Project Title: Airbnb Rental System Data Analysis**
 
+**SUMMARY**
+
+***Developed Data analysis and recommendation system of Airbnb Rental System using Python libraties Pandas, PyMongo, Matplotlib and MongoDB Database***
+
 **I. PROBLEM**
 
   Airbnb Rental System Data Analysis - In this project I worked on an analysis of the Airbnb rental system of two cities; New York and Seattle. The following is the analysis that I performed on the data:
